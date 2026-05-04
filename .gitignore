@@ -1,0 +1,16 @@
+*.vcf
+*.vcf.gz
+*.bcf
+*.bed
+*.bim
+*.fam
+*.tbi
+*.csi
+*.log
+*.nosex
+*.hh
+*-temporary.*
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
